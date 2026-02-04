@@ -17,7 +17,7 @@ const NetworkSphereSVG = () => {
   }, [])
 
   return (
-    <div ref={svgRef}>
+    <div className=' rounded-full ' ref={svgRef}>
       <svg
         viewBox="0 0 600 600"
         width="600"

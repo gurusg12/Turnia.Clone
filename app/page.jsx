@@ -7,7 +7,7 @@ const page = () => {
   return (
 
 
-    <div className='bg-slate-900'>
+    <div className='bg-slate-100'>
       <Hero/>
     </div>
   )

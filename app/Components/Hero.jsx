@@ -11,7 +11,7 @@ const Hero = () => {
   return (
     <div className='flex flex-col'>
       <div className='w-full   flex flex-col justify-around '>
-         <div className='w-full bg-pink-300 h-[65vh]'>
+         <div className='w-full h-[65vh]'>
           <MainBanner />
         </div>
        </div>

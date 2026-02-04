@@ -1,5 +1,5 @@
 import React from 'react'
-import Appimages from '../Components/Appimages'
+
 
 const page = () => {
   return (
